@@ -15,3 +15,4 @@ inizio b2
 inizio b3
 inizio b4
 new conflict
+changes from feature
